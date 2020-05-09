@@ -1,4 +1,4 @@
-# @mauron85/cordova-plugin-background-geolocation
+# @progamma/cordova-plugin-background-geolocation
 
 ## We're moving
 
