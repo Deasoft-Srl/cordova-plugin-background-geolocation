@@ -1,3 +1,0 @@
-[submodule "android-common"]
-	path = android/common
-	url = https://github.com/progamma/background-geolocation-android.git
