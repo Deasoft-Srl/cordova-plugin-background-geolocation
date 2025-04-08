@@ -1,7 +1,7 @@
 // Type definitions for cordova-plugin-deasoft-background-geolocation.
 // Project: https://github.com/deasoft/cordova-plugin-background-geolocation
 // Definitions by: Pro Gamma
-// Definitions: https://github.com/deasoft/cordova-plugin-background-geolocation/blob/master/www/BackgroundGeolocation.d.ts
+// Definitions: https://github.com/deasoft/cordova-plugin-background-geolocation/blob/idc-deasoft/www/BackgroundGeolocation.d.ts
 
 type Event = 'location' | 'stationary' | 'activity' | 'start' | 'stop' | 'error' | 'authorization' | 'foreground' | 'background' | 'abort_requested' | 'http_authorization';
 type HeadlessTaskEventName = 'location' | 'stationary' | 'activity';
@@ -572,7 +572,7 @@ export interface BackgroundGeolocationPlugin {
    *
    * @param success
    * @param fail
-   * @see {@link https://github.com/deasoft/react-native-background-geolocation#getlocationssuccess-fail|Docs}
+   * @see {@link https://github.com/progamma/react-native-background-geolocation#getlocationssuccess-fail|Docs}
    */
   getLocations(
     success: (locations: Location[]) => void,
@@ -584,7 +584,7 @@ export interface BackgroundGeolocationPlugin {
    * Platform: iOS, Android
    * @param success
    * @param fail
-   * @see {@link https://github.com/deasoft/react-native-background-geolocation#getvalidlocationssuccess-fail|Docs}
+   * @see {@link https://github.com/progamma/react-native-background-geolocation#getvalidlocationssuccess-fail|Docs}
    */
   getValidLocations(
     success: (location: Location[]) => void,
