@@ -1,3 +1,5 @@
+<b>!!! Tentativo di aggiornare il repository partendo però direttamente da quello di ProGamma. Si è rivelato un fiasco perché lo stesso repository di ProGamma non funziona così com'è, evidentemente è stato cambiato prima di importarlo nel componente standard. !!!</b>
+
 # @mauron85/cordova-plugin-background-geolocation
 
 ## We're moving
